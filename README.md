@@ -5,6 +5,7 @@
 
 - 🔭 I’m currently working on [**Giải Thuật CPP**](https://www.facebook.com/algorithmcpp)
 - 🌱 I’m currently learning Vietnam-Korea University of Information and Communication Technology 
+- 🔭 Facebook: [**Phan Đức Hải**] (https://www.facebook.com/chiatayde)
 
 
 ## Key skills
@@ -14,27 +15,22 @@
 📖 ` Node / Express`
 
 <p>
-  <img src="https://img.shields.io/badge/Html-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-ff7851" /> 
-  <img src="https://img.shields.io/badge/CSS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-44b2fb" /> 
-  <img src="https://img.shields.io/badge/SCSS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-3fedff" />  
+  <img src="https://img.shields.io/badge/Pascal-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-f05340" /> 
+  <img src="https://img.shields.io/badge/C-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-ff7851" /> 
+  <img src="https://img.shields.io/badge/C++-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-44b2fb" /> 
+  <img src="https://img.shields.io/badge/Java-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-3fedff" />  
   <img src="https://img.shields.io/badge/javascript-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-f99f03" /> 
-  <img src="https://img.shields.io/badge/ReactJs-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-01d9ff" /> 
-  <img src="https://img.shields.io/badge/Angular-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-c40f2e" /> 
+  <img src="https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-01d9ff" /> 
+  <img src="https://img.shields.io/badge/C#-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-c40f2e" /> 
   <img src="https://img.shields.io/badge/PHP-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-5466b6" /> 
   <img src="https://img.shields.io/badge/MSQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-05a5e2" /> 
   <img src="https://img.shields.io/badge/BootStrap-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-9b5ee4" /> 
   <img src="https://img.shields.io/badge/Foundation-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-2accff" /> 
-  <img src="https://img.shields.io/badge/jQuery-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0d0d0d" /> 
-  <img src="https://img.shields.io/badge/VueJs-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-52f9ae" /> 
   <img src="https://img.shields.io/badge/NodeJs-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-9ef380" /> 
   <img src="https://img.shields.io/badge/Jest-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-c21325" /> 
-   <img src="https://img.shields.io/badge/Shopify-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-bff754" /> 
-   <img src="https://img.shields.io/badge/laravel-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-f05340" /> 
-   <img src="https://img.shields.io/badge/Wordpress-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-35a7f1" /> 
-   <img src="https://img.shields.io/badge/AdobePhotoshop-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-2a10f5" /> 
-   <img src="https://img.shields.io/badge/AdobeIllustrator-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-fe7b05" /> 
-   <img src="https://img.shields.io/badge/Sketch-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-fdad00" /> 
-   <img src="https://img.shields.io/badge/Invision-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-f8517c" /> 
+  <img src="https://img.shields.io/badge/Shopify-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-bff754" /> 
+  <img src="https://img.shields.io/badge/laravel-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-f05340" /> 
+  <img src="https://img.shields.io/badge/Wordpress-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-35a7f1" /> 
 </p>
 
 
@@ -75,11 +71,15 @@
 
 
 
+
 ### I am really glad to see you here !
-Your are the [![Visitors](https://visitor-badge.glitch.me/badge?page_id=muhraff.visitor-badge)](https://github.com/zukahai) since i added this profile <br>
-The green dots on my [**GitHub** profile](https://github.com/zukahai=repositories) represent my journeys :rocket:.<br> Please have a look and share your thoughts. 
+Your are the [![Visitors](https://visitor-badge.glitch.me/badge?page_id=zukahai.visitor-badge)](https://github.com/zukahai) since i added this profile <br>
+The green dots on my [**GitHub** profile](https://github.com/zukahais) represent my journeys :rocket:.<br> Please have a look and share your thoughts. 
 
 Thank you 🙏 😊  
+
+### 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zukahai)  
 
 <!--
 **muhraff/muhraff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
