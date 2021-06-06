@@ -1,4 +1,4 @@
-![I am Vietnamese](https://tackexinh.com/wp-content/uploads/2021/01/hinh-anh-dep-chat-luong-001.jpg)
+![I am Vietnamese](https://github.com/zukahai/zukahai/blob/main/Images/a.jpg)
 
 I create projects for my blog posts, sometimes just for fun.
 
