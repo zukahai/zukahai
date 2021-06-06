@@ -73,7 +73,6 @@
 
 
 ### I am really glad to see you here !
-Your are the [![Visitors](https://visitor-badge.glitch.me/badge?page_id=zukahai.visitor-badge)](https://github.com/zukahai) since i added this profile <br>
 The green dots on my [**GitHub** profile](https://github.com/zukahais) represent my journeys :rocket:.<br> Please have a look and share your thoughts. 
 
 Thank you 🙏 😊  
