@@ -1,8 +1,7 @@
 ![I am Vietnamese](https://github.com/zukahai/zukahai/blob/main/Images/a.jpg)
 
-I create projects for my blog posts, sometimes just for fun.
+## I create projects for my blog posts, sometimes just for fun.
 
-Skills: C/ C++/ java/ python
 
 - 🔭 I’m currently working on [**Giải Thuật CPP**](https://www.facebook.com/algorithmcpp)
 - 🌱 I’m currently learning Vietnam-Korea University of Information and Communication Technology 
@@ -77,8 +76,8 @@ Skills: C/ C++/ java/ python
 
 
 ### I am really glad to see you here !
-Your are the [![Visitors](https://visitor-badge.glitch.me/badge?page_id=muhraff.visitor-badge)](https://github.com/muhraff) since i added this profile <br>
-The green dots on my [**GitHub** profile](https://github.com/muhraff=repositories) represent my journeys :rocket:.<br> Please have a look and share your thoughts. 
+Your are the [![Visitors](https://visitor-badge.glitch.me/badge?page_id=muhraff.visitor-badge)](https://github.com/zukahai) since i added this profile <br>
+The green dots on my [**GitHub** profile](https://github.com/zukahai=repositories) represent my journeys :rocket:.<br> Please have a look and share your thoughts. 
 
 Thank you 🙏 😊  
 
