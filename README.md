@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [**Giải Thuật CPP**](https://www.facebook.com/algorithmcpp)
 - 🌱 I’m currently learning Vietnam-Korea University of Information and Communication Technology 
-- 🔭 Facebook: [**Phan Đức Hải**] (https://www.facebook.com/chiatayde)
+- 🔭 Facebook: [**Phan Đức Hải**](https://www.facebook.com/chiatayde)
 
 
 ## Key skills
@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Java-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-3fedff" />  
   <img src="https://img.shields.io/badge/javascript-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-f99f03" /> 
   <img src="https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-01d9ff" /> 
-  <img src="https://img.shields.io/badge/C#-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-c40f2e" /> 
+  <img src="https://img.shields.io/badge/CShape-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-c40f2e" /> 
   <img src="https://img.shields.io/badge/PHP-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-5466b6" /> 
   <img src="https://img.shields.io/badge/MSQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-05a5e2" /> 
   <img src="https://img.shields.io/badge/BootStrap-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-9b5ee4" /> 
