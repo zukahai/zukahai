@@ -10,7 +10,7 @@
 
 ## Key skills
 
-💬 `Html, CSS, JavaScript, React, Redux, Shopify, Wordpress, Laravel, Photoshop`.
+💬 `Algorithms, Html, CSS, JavaScript, , Wordpress, Laravel, Photoshop`.
 
 📖 ` Node / Express`
 
@@ -37,35 +37,20 @@
 ## I have been working on
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="64" height="64" alt="html logo"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="64" height="64" alt="css logo">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="64" height="64" alt="sass logo">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width="64" height="64" alt="vscode logo">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="64" height="64" alt="javascript logo">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="64" height="64" alt="bootstrap logo">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="64" height="64" alt="react logo">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width="64" height="64" alt="vue logo">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/storybook/storybook.png" width="64" height="64" alt="storybook logo">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" class="rounded-1 mr-3" width="64" height="64" alt="angular">
- <img src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" class="rounded-1 mr-3" width="64" height="64" alt="aws">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" class="rounded-1 mr-3" width="64" height="64" alt="azure">
- <img src="https://raw.githubusercontent.com/github/explore/cb39e2385dfcec8a661d01bfacff6b1e33bbaa9d/topics/babel/babel.png" class="rounded-1 mr-3" width="64" height="64" alt="babel">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" class="rounded-1 mr-3" width="64" height="64" alt="docker">
- <img src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" class="rounded-1 mr-3" width="64" height="64" alt="dotnet">
+ <img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" width="64" height="64" alt="eclipse logo">
+ <img src="https://img-cache.coccoc.com/image2?i=2&l=25/168143724" class="rounded-1 mr-3" width="64" height="64" alt="sublime text">
+ <img src="https://phanmemcntt.com/wp-content/uploads/2020/08/download-dev-c-5.9.2-moi-nhat.png" class="rounded-1 mr-3" width="64" height="64" alt="devC logo">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/es6/es6.png" class="rounded-1 mr-3" width="64" height="64" alt="es6">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" class="rounded-1 mr-3" width="64" height="64" alt="eslint">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" class="rounded-1 mr-3" width="64" height="64" alt="git">
- <img src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" class="rounded-1 mr-3" width="64" height="64" alt="graphql">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png" class="rounded-1 mr-3" width="64" height="64" alt="gulp">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/homebrew/homebrew.png" class="rounded-1 mr-3" width="64" height="64" alt="homebrew">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" class="rounded-1 mr-3" width="64" height="64" alt="jquery">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" class="rounded-1 mr-3" width="64" height="64" alt="jquery">
  <img src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" class="rounded-1 mr-3" width="64" height="64" alt="laravel">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" class="rounded-1 mr-3" width="64" height="64" alt="mysql">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" class="rounded-1 mr-3" width="64" height="64" alt="nodejs">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" class="rounded-1 mr-3" width="64" height="64" alt="npm">
  <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" class="rounded-1 mr-3" width="64" height="64" alt="php">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" class="rounded-1 mr-3" width="64" height="64" alt="redux">
- <img src="https://raw.githubusercontent.com/github/explore/a5995564b5ff71c41da080abc49f1ba4132127c1/topics/sketch/sketch.png" class="rounded-1 mr-3" width="64" height="64" alt="sketch">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" class="rounded-1 mr-3" width="64" height="64" alt="sql">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" class="rounded-1 mr-3" width="64" height="64" alt="typescript">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" class="rounded-1 mr-3" width="64" height="64" alt="webpack">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" class="rounded-1 mr-3" width="64" height="64" alt="wordpress">
 
 
