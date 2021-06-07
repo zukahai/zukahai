@@ -1,7 +1,7 @@
 ![I am Vietnamese](https://github.com/zukahai/zukahai/blob/main/Images/a.jpg)
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zukahai" alt="zukahai" /> </p>
 
-## I create projects for my blog posts, sometimes just for fun.
+## I create projects for my blog posts, sometimes just for fun. You are free to use my projects.
 
 
 - 👨‍💻 Facebook: [**Phan Đức Hải**](https://www.facebook.com/chiatayde)
