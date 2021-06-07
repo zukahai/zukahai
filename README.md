@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on [**Giải Thuật CPP**](https://www.facebook.com/algorithmcpp)
-- 🌱 I’m currently learning Vietnam-Korea University of Information and Communication Technology 
+- 🌱 I’m currently learning **Vietnam-Korea University of Information and Communication Technology**
 - 🔭 Facebook: [**Phan Đức Hải**](https://www.facebook.com/chiatayde)
 
 
@@ -25,10 +25,7 @@
   <img src="https://img.shields.io/badge/PHP-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-5466b6" /> 
   <img src="https://img.shields.io/badge/MSQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-05a5e2" /> 
   <img src="https://img.shields.io/badge/BootStrap-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-9b5ee4" /> 
-  <img src="https://img.shields.io/badge/Foundation-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-2accff" /> 
   <img src="https://img.shields.io/badge/NodeJs-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-9ef380" /> 
-  <img src="https://img.shields.io/badge/Jest-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-c21325" /> 
-  <img src="https://img.shields.io/badge/Shopify-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-bff754" /> 
   <img src="https://img.shields.io/badge/laravel-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-f05340" /> 
   <img src="https://img.shields.io/badge/Wordpress-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-35a7f1" /> 
 </p>
