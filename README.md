@@ -58,9 +58,9 @@
 
 
 ### I am really glad to see you here !
-The green dots on my [**GitHub** profile](https://github.com/zukahais) represent my journeys :rocket:.<br> Please have a look and share your thoughts. 
+The green dots on my [**GitHub** profile](https://github.com/zukahai) represent my journeys :rocket:.<br> Please have a look and share your thoughts. 
 
-Thank you 🙏 😊  
+Thank you 😄⚡😊  
 
 ### 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zukahai)  
