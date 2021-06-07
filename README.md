@@ -4,9 +4,11 @@
 ## I create projects for my blog posts, sometimes just for fun.
 
 
+- 👨‍💻 Facebook: [**Phan Đức Hải**](https://www.facebook.com/chiatayde)
 - 🔭 I’m currently working on [**Giải Thuật CPP**](https://www.facebook.com/algorithmcpp)
-- 🌱 I’m currently learning **Vietnam-Korea University of Information and Communication Technology**
-- 🔭 Facebook: [**Phan Đức Hải**](https://www.facebook.com/chiatayde)
+- :scroll: My blogs [**HaiZuka**](https://codelearn.io/sharing/post/HaiZuka)
+- 🌱 I’m currently learning [**Vietnam-Korea University of Information and Communication Technology**](http://www.vku.udn.vn/)
+- 📫 Contact me: [**duchai2712@gmail.com**](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWtDtZMLFZNklJftjSPkWfqJvvRpVXtfFCMXMwbvzCmbBGfHvKVSBvZdqmwpWSCfPcWBscNDV)
 
 
 ## Key skills
