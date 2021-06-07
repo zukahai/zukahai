@@ -1,3 +1,5 @@
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=zukahai" alt="zukahai" /> </p>
+
 ![I am Vietnamese](https://github.com/zukahai/zukahai/blob/main/Images/a.jpg)
 
 ## I create projects for my blog posts, sometimes just for fun.
