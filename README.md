@@ -1,4 +1,4 @@
-![I am Vietnamese](https://github.com/zukahai/zukahai/blob/main/Images/a.jpg)
+![I am Vietnamese](https://raw.githubusercontent.com/zukahai/zukahai/main/Images/banner.jpg)
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zukahai" alt="zukahai" /> </p>
 
 ## I create projects for my blog posts, sometimes just for fun. You are free to use my projects.
@@ -58,9 +58,9 @@
 
 
 ### I am really glad to see you here !
-The green dots on my [**GitHub** profile](https://github.com/zukahais) represent my journeys :rocket:.<br> Please have a look and share your thoughts. 
+The green dots on my [**GitHub** profile](https://github.com/zukahai) represent my journeys :rocket:.<br> Please have a look and share your thoughts. 
 
-Thank you 🙏 😊  
+Thank you 😄⚡😊  
 
 ### 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zukahai)  
