@@ -5,6 +5,7 @@
 
 
 - 👨‍💻 Facebook: [**Phan Đức Hải**](https://www.facebook.com/chiatayde)
+- 🔭 Youtube: [**HaiZuka**](https://www.youtube.com/HaiZuka)
 - 🔭 I’m currently working on [**Giải Thuật CPP**](https://www.facebook.com/algorithmcpp)
 - :scroll: My blogs [**HaiZuka**](https://codelearn.io/sharing/post/HaiZuka)
 - 🌱 I’m currently learning [**Vietnam-Korea University of Information and Communication Technology**](http://www.vku.udn.vn/)
