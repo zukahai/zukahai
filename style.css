@@ -1805,7 +1805,7 @@ img {
 
 .breadcumb-area .bradcumbContent {
     position: absolute;
-    background-color: rgb(20, 223, 238);
+    background-color: rgb(100, 212, 197);
     width: 552px;
     bottom: 0;
     left: 50%;
@@ -1862,7 +1862,7 @@ img {
     height: 106px;
     border: 1px solid #000000;
     text-align: center;
-    background-color: rgb(12, 11, 11);
+    background-color: #fff;
     position: absolute;
     z-index: 10;
     top: -30px;
