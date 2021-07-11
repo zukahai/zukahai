@@ -1300,7 +1300,7 @@ img {
 .albums-slideshow .single-album:focus {
     border: 1px solid #000000;
     box-shadow: none;
-    background-color: #227286;
+    background-color: #f5f9fa;
 }
 
 .albums-slideshow .owl-prev,
