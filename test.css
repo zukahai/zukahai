@@ -1,0 +1,53 @@
+.single-album-item {
+    float: left;
+    padding: 10px;
+}
+
+#myUL {
+    padding: 10px;
+}
+
+.footer-area {
+    clear: both;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+}
+
+.sch-bar {
+    margin-top: 40px;
+    padding: auto;
+    position: relative;
+    margin-left: 30px;
+}
+
+input {
+    border: .5px solid #ddd;
+    border-radius: 25px;
+    padding: 10px 15px;
+    width: 220px;
+    position: relative;
+    border: solid 1px darkblue;
+}
+
+::placeholder {
+    font-size: 12px;
+    opacity: .43;
+}
+
+#srch-icon {
+    color: #fff;
+    background: linear-gradient(135deg, #7117ea 0%, #ea6060 100%);
+    padding: 8px;
+    border-radius: 50px;
+    position: absolute;
+    top: 6px;
+    left: 10px;
+}

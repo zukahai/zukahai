@@ -1,28 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+
 <head>
-    <link href="https://fonts.googleapis.com/css2?family=Oswald&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
-    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
-    <link rel="stylesheet" href="css/style.css">
-    <title> HaiZuka - Phan Đức Hải</title>
+    <meta charset="UTF-8">
+    <meta name="description" content="">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+ 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css" integrity="sha256-UzFD2WYH2U1dQpKDjjZK72VtPeWP50NoJjd26rnAdUI=" crossorigin="anonymous" />
+
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="test.css">
+
 </head>
 
 <body>
-    <input type="checkbox" id="active">
-    <label for="active" class="menu-btn"><span></span></label>
-    <label for="active" class="close"></label>
-    <div class="wrapper">
-        <ul>
-            <li><a href="#">Home</a></li>
-            <li><a href="#">About</a></li>
-            <li><a href="#">Services</a></li>
-            <li><a href="#">Gallery</a></li>
-            <li><a href="#">Feedback</a></li>
-        </ul>
-    </div>
-    <div class="content">
-        <div class="title">
-            Welcome to website of HaiZuka
+    <!-- ##### Header Area Start ##### -->
+    <header class="header-area">
+        <!-- Navbar Area -->
+        <div class="oneMusic-main-menu">
+            <div class="classy-nav-container breakpoint-off">
+                <div class="container">
+                    <!-- Menu -->
+                    <nav class="classy-navbar justify-content-between" id="oneMusicNav">
+
+                        <!-- Nav brand -->
+                        <a href="#" class="nav-brand"><img src="img/core-img/logo.png" alt=""></a>
+
+                        <!-- Navbar Toggler -->
+                        <div class="classy-navbar-toggler">
+                            <span class="navbarToggler"><span></span><span></span><span></span></span>
+                        </div>
+
+                        <!-- Menu -->
+                        <div class="classy-menu">
+
+                            <!-- Close Button -->
+                            <div class="classycloseIcon">
+                                <div class="cross-wrap"><span class="top"></span><span class="bottom"></span></div>
+                            </div>
+
+                            <!-- Nav Start -->
+                            <div class="classynav">
+                                <ul>
+                                    <li><a href="#">Home</a></li>
+                                    <li><a href="#">Game</a></li>
+                                    <li><a href="#">Contact</a></li>
+                                </ul>
+
+                                <!-- Login/Register & Cart Button -->
+                                <div class="login-register-cart-button d-flex align-items-center">
+                                    <!-- Login/Register -->
+                                    <div class="login-register-btn mr-50">
+                                        <a href="#" id="loginBtn">Login / Register</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Nav End -->
+
+                        </div>
+                    </nav>
+                </div>
+            </div>
         </div>
-    </div>
-</body>
+    </header>
+    <!-- ##### Header Area End ##### -->
+
+    <!-- ##### Breadcumb Area Start ##### -->
+    <section class="breadcumb-area bg-img bg-overlay" style="background-image: url(img/bg-img/breadcumb.jpg);">
+        <div class="bradcumbContent">
+            <p>HaiZuka</p>
+            <h2>List Game</h2>
+        </div>
+    </section>
+
+    <section class="album-catagory section-padding-100-0" style="margin-top: -110px;">
+        <div id="myUL">
+
+            <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item t m s">
+                <div class="single-album">
+                    <a href="https://zukahai.github.io/Shoot-number-ball-game/" target="_blank">
+                        <img src="img/bg-img/shootNumberBall.jpg" alt="">
+                        <div class="album-info">
+                        <h5>Shoot Number Ball</h5>
+                    </a>
+                    <p>HaiZuka</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item t m s">
+                <div class="single-album">
+                    <a href="https://zukahai.github.io/H5-canvas/" target="_blank">
+                        <img src="img/bg-img/snake.jpg" alt="">
+                        <div class="album-info">
+                        <h5>Snake Game</h5>
+                    </a>
+                    <p>HaiZuka</p>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item t m s">
+                <div class="single-album">
+                    <a href="https://zukahai.github.io/Gold-Miner-Game/" target="_blank">
+                        <img src="img/bg-img/goldMiner.jpg" alt="">
+                        <div class="album-info">
+                        <h5>Gold Miner</h5>
+                    </a>
+                    <p>HaiZuka</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item t m s">
+                <div class="single-album">
+                    <a href="https://zukahai.github.io/Among-US/" target="_blank">
+                        <img src="img/bg-img/AmongUS.jpg" alt="">
+                        <div class="album-info">
+                        <h5>Among US</h5>
+                    </a>
+                    <p>HaiZuka</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item t m s">
+                <div class="single-album">
+                    <a href="https://zukahai.github.io/Throwing-Knife-Game/" target="_blank">
+                        <img src="img/bg-img/Throwing-Knife-Game.jpg" alt="">
+                        <div class="album-info">
+                        <h5>Throwing Knife Game</h5>
+                    </a>
+                    <p>HaiZuka</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item t m s">
+                <div class="single-album">
+                    <a href="https://zukahai.github.io/Picture-Puzzle-Html5/" target="_blank">
+                        <img src="img/bg-img/picture-pulzz.jpg" alt="">
+                        <div class="album-info">
+                        <h5>Picture Puzzle</h5>
+                    </a>
+                    <p>HaiZuka</p>
+                    </div>
+                </div>
+            </div>
+
+    </section>
+    <footer class="footer-area">
+        <div class="container">
+            <div class="row d-flex flex-wrap align-items-center">
+                <div class="col-12 col-md-6">
+                    <!-- phần xóa -->
+                </div>
+
+
+            </div>
+        </div>
+    </footer>
+    
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+    <script src="search.js"></script>
+   
+    <script src="js/jquery/jquery-2.2.4.min.js"></script>
+   
+    <script src="js/bootstrap/popper.min.js"></script>
   
+    <script src="js/bootstrap/bootstrap.min.js"></script>
+   
+    <script src="js/plugins/plugins.js"></script>
+  
+    <script src="js/active.js"></script>
+</body>
+
+</html>
