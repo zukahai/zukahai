@@ -38,7 +38,7 @@
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="64" height="64" alt="javascript logo">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="64" height="64" alt="bootstrap logo">
  <img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" width="64" height="64" alt="eclipse logo">
- <img src="https://img-cache.coccoc.com/image2?i=2&l=25/168143724" class="rounded-1 mr-3" width="64" height="64" alt="sublime text">
+ <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" class="rounded-1 mr-3" width="64" height="64" alt="sublime text">
  <img src="https://phanmemcntt.com/wp-content/uploads/2020/08/download-dev-c-5.9.2-moi-nhat.png" class="rounded-1 mr-3" width="64" height="64" alt="devC logo">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/es6/es6.png" class="rounded-1 mr-3" width="64" height="64" alt="es6">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" class="rounded-1 mr-3" width="64" height="64" alt="git">
