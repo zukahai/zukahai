@@ -2,11 +2,11 @@
 
 <div align="center">
   
-| <img width=400/>|<img width=800/>|
+| <img width=300/>|<img width=800/>|
 | :-----: | :-: |
 | Facebook | [**Phan Đức Hải**](https://www.facebook.com/chiatayde)  |
 | Youtube | [**HaiZuka**](https://www.youtube.com/HaiZuka) |
-| currently working  | [**Giải Thuật CPP**](https://www.facebook.com/algorithmcpp) |
+| Working  | [**Giải Thuật CPP**](https://www.facebook.com/algorithmcpp) |
 | My blogs | [**HaiZuka**](https://codelearn.io/sharing/post/HaiZuka) |
 | University | [**Vietnam-Korea University of Information and Communication Technology**](http://www.vku.udn.vn/) |
 | Contact | **<duchai2712@gmail.com>** |
