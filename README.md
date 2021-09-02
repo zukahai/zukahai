@@ -2,7 +2,7 @@
 
 <div align="center">
   
-| |  |
+| <img width=400/>|<img width=800/>|
 | :-----: | :-: |
 | Facebook | [**Phan Đức Hải**](https://www.facebook.com/chiatayde)  |
 | Youtube | [**HaiZuka**](https://www.youtube.com/HaiZuka) |
