@@ -60,4 +60,4 @@
 
 ## <p align="center"> THANK YOU </p>
 
-[![Arya Soni github activity graph](https://activity-graph.herokuapp.com/graph?username=zukahai&theme=react-dark)](https://github.com/zukahai/github-readme-activity-graph)
+![Arya Soni github activity graph](https://activity-graph.herokuapp.com/graph?username=zukahai&theme=react-dark)
