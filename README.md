@@ -1,6 +1,5 @@
 [![HaiZuka](https://github.com/zukahai/zukahai/blob/main/Images/HaiZuka.gif)](https://www.facebook.com/algorithmcpp)
 
-
 <div align = "center">
   <img align="center" src= "https://github-profile-trophy.vercel.app/?username=zukahai&theme=dracula&rank=S,AAA,AA,B,C,A&margin-w=10" />
 </div>
@@ -19,11 +18,8 @@
 | <img width=300/> |  |
   
 </div>
-  <hr>
+ <hr>
 
-## Key skills
-
-💬 `Algorithms, Html, CSS, Javascript`.
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -42,7 +38,7 @@
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
-## I have been working on
+## <p align="center"> I have been working on</p>
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="64" height="64" alt="html logo"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="64" height="64" alt="css logo">
  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width="64" height="64" alt="vscode logo">
@@ -64,4 +60,4 @@
 
 ## <p align="center"> THANK YOU </p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zukahai)  
+[![Arya Soni github activity graph](https://activity-graph.herokuapp.com/graph?username=zukahai&theme=react-dark)](https://github.com/aryasoni98/github-readme-activity-graph)
