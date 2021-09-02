@@ -1,16 +1,18 @@
 [![HaiZuka](https://github.com/zukahai/zukahai/blob/main/Images/HaiZuka.gif)](https://www.facebook.com/algorithmcpp)
-<!-- [<p align="center"> <img src="https://github.com/zukahai/zukahai/blob/main/Images/fake.png" alt="zukahai" /> </p>](https://codelearn.io/sharing/post/HaiZuka) -->
 
-## I create projects for my blog posts, sometimes just for fun. You are free to use my projects.
-
-
-- 👨‍💻 Facebook: [**Phan Đức Hải**](https://www.facebook.com/chiatayde)
-- 🔭 Youtube: [**HaiZuka**](https://www.youtube.com/HaiZuka)
-- 🔭 I’m currently working on [**Giải Thuật CPP**](https://www.facebook.com/algorithmcpp)
-- :scroll: My blogs [**HaiZuka**](https://codelearn.io/sharing/post/HaiZuka)
-- 🌱 I’m currently learning [**Vietnam-Korea University of Information and Communication Technology**](http://www.vku.udn.vn/)
-- 📫 Contact me: **<duchai2712@gmail.com>**
-
+<div align="center">
+  
+| |  |
+| :-----: | :-: |
+| Facebook | [**Phan Đức Hải**](https://www.facebook.com/chiatayde)  |
+| Youtube | [**HaiZuka**](https://www.youtube.com/HaiZuka) |
+| currently working  | [**Giải Thuật CPP**](https://www.facebook.com/algorithmcpp) |
+| My blogs | [**HaiZuka**](https://codelearn.io/sharing/post/HaiZuka) |
+| University | [**Vietnam-Korea University of Information and Communication Technology**](http://www.vku.udn.vn/) |
+| Contact | **<duchai2712@gmail.com>** |
+  
+</div>
+  <hr>
 
 ## Key skills
 
@@ -47,29 +49,12 @@
  <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" class="rounded-1 mr-3" width="64" height="64" alt="php">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" class="rounded-1 mr-3" width="64" height="64" alt="sql">
 
+<hr>
 
-
-
-
-### I am really glad to see you here !
+### I create projects for my blog posts, sometimes just for fun. You are free to use my projects. </br>I am really glad to see you here !
 The green dots on my [**GitHub** profile](https://github.com/zukahai) represent my journeys :rocket:.<br> Please have a look and share your thoughts. 
 
-Thank you 😄⚡😊  
+Thank you!
 
 ### 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zukahai)  
-
-<!--
-**muhraff/muhraff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
