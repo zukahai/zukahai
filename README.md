@@ -10,6 +10,7 @@
 | My blogs | [**HaiZuka**](https://codelearn.io/sharing/post/HaiZuka) |
 | University | [**Vietnam-Korea University of Information and Communication Technology**](http://www.vku.udn.vn/) |
 | Contact | **<duchai2712@gmail.com>** |
+| <img width=300/> |  |
   
 </div>
   <hr>
@@ -51,10 +52,9 @@
 
 <hr>
 
-### I create projects for my blog posts, sometimes just for fun. You are free to use my projects. </br>I am really glad to see you here !
-The green dots on my [**GitHub** profile](https://github.com/zukahai) represent my journeys :rocket:.<br> Please have a look and share your thoughts. 
+### <p align="center"> I create projects for my blog posts, sometimes just for fun. You are free to use my projects. </br>I am really glad to see you here ! </p>
 
-Thank you!
+## <p align="center"> THANK YOU </p>
 
 ### 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zukahai)  
