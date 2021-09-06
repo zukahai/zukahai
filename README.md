@@ -1,82 +1,63 @@
 [![HaiZuka](https://github.com/zukahai/zukahai/blob/main/Images/HaiZuka.gif)](https://www.facebook.com/algorithmcpp)
-<!-- [<p align="center"> <img src="https://github.com/zukahai/zukahai/blob/main/Images/fake.png" alt="zukahai" /> </p>](https://codelearn.io/sharing/post/HaiZuka) -->
 
-## I create projects for my blog posts, sometimes just for fun. You are free to use my projects.
+<div align = "center">
+  <img align="center" src= "https://github-profile-trophy.vercel.app/?username=zukahai&theme=dracula&rank=S,AAA,AA,B,C,A&margin-w=10" />
+</div>
+</br>
 
-
-- 👨‍💻 Facebook: [**Phan Đức Hải**](https://www.facebook.com/chiatayde)
-- 🔭 Youtube: [**HaiZuka**](https://www.youtube.com/HaiZuka)
-- 🔭 I’m currently working on [**Giải Thuật CPP**](https://www.facebook.com/algorithmcpp)
-- :scroll: My blogs [**HaiZuka**](https://codelearn.io/sharing/post/HaiZuka)
-- 🌱 I’m currently learning [**Vietnam-Korea University of Information and Communication Technology**](http://www.vku.udn.vn/)
-- 📫 Contact me: **<duchai2712@gmail.com>**
-
-
-## Key skills
-
-💬 `Algorithms, Html, CSS, JavaScript, , Wordpress, Laravel, Photoshop`.
-
-📖 ` Node / Express`
-
-<p>
-  <img src="https://img.shields.io/badge/Pascal-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-f05340" /> 
-  <img src="https://img.shields.io/badge/C-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-ff7851" /> 
-  <img src="https://img.shields.io/badge/C++-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-44b2fb" /> 
-  <img src="https://img.shields.io/badge/Java-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-3fedff" />  
-  <img src="https://img.shields.io/badge/javascript-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-f99f03" /> 
-  <img src="https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-01d9ff" /> 
-  <img src="https://img.shields.io/badge/CShape-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-c40f2e" /> 
-  <img src="https://img.shields.io/badge/PHP-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-5466b6" /> 
-  <img src="https://img.shields.io/badge/MSQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-05a5e2" /> 
-  <img src="https://img.shields.io/badge/BootStrap-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-9b5ee4" /> 
-  <img src="https://img.shields.io/badge/NodeJs-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-9ef380" /> 
-  <img src="https://img.shields.io/badge/laravel-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-f05340" /> 
-  <img src="https://img.shields.io/badge/Wordpress-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-35a7f1" /> 
-</p>
+<div align="center">
+  
+| <img width=300/>|<img width=800/>|
+| :-----: | :-: |
+| Facebook | [**Phan Đức Hải**](https://www.facebook.com/chiatayde)  |
+| Youtube | [**HaiZuka**](https://www.youtube.com/HaiZuka) |
+| Working  | [**Giải Thuật CPP**](https://www.facebook.com/algorithmcpp) |
+| My blogs | [**HaiZuka**](https://codelearn.io/sharing/post/HaiZuka) |
+| University | [**Vietnam-Korea University of Information and Communication Technology**](http://www.vku.udn.vn/) |
+| Contact | **<duchai2712@gmail.com>** |
+| <img width=300/> |  |
+  
+</div>
+ <hr>
 
 
-## I have been working on
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
+
+## <p align="center"> I have been working on</p>
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="64" height="64" alt="html logo"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="64" height="64" alt="css logo">
  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width="64" height="64" alt="vscode logo">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="64" height="64" alt="javascript logo">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="64" height="64" alt="bootstrap logo">
  <img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" width="64" height="64" alt="eclipse logo">
- <img src="https://img-cache.coccoc.com/image2?i=2&l=25/168143724" class="rounded-1 mr-3" width="64" height="64" alt="sublime text">
+ <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" class="rounded-1 mr-3" width="64" height="64" alt="sublime text">
  <img src="https://phanmemcntt.com/wp-content/uploads/2020/08/download-dev-c-5.9.2-moi-nhat.png" class="rounded-1 mr-3" width="64" height="64" alt="devC logo">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/es6/es6.png" class="rounded-1 mr-3" width="64" height="64" alt="es6">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" class="rounded-1 mr-3" width="64" height="64" alt="git">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" class="rounded-1 mr-3" width="64" height="64" alt="jquery">
- <img src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" class="rounded-1 mr-3" width="64" height="64" alt="laravel">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" class="rounded-1 mr-3" width="64" height="64" alt="mysql">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" class="rounded-1 mr-3" width="64" height="64" alt="nodejs">
  <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" class="rounded-1 mr-3" width="64" height="64" alt="php">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" class="rounded-1 mr-3" width="64" height="64" alt="sql">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" class="rounded-1 mr-3" width="64" height="64" alt="wordpress">
 
+<hr>
 
+### <p align="center"> I create projects for my blog posts, sometimes just for fun. You are free to use my projects. </br>I am really glad to see you here ! </p>
 
+## <p align="center">💔💙💓💝 THANK YOU 💚💗💘💖</p>
 
-
-### I am really glad to see you here !
-The green dots on my [**GitHub** profile](https://github.com/zukahai) represent my journeys :rocket:.<br> Please have a look and share your thoughts. 
-
-Thank you 😄⚡😊  
-
-### 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zukahai)  
-
-<!--
-**muhraff/muhraff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Arya Soni github activity graph](https://activity-graph.herokuapp.com/graph?username=zukahai&theme=react-dark)
