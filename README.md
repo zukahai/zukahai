@@ -1,4 +1,4 @@
-[![HaiZuka](https://github.com/zukahai/zukahai/blob/main/Images/HaiZuka.gif)](https://www.facebook.com/algorithmcpp)
+[![HaiZuka](https://github.com/zukahai/zukahai/blob/main/Images/HaiZuka.gif)](https://www.facebook.com/)
 
 <div align = "center">
   <img align="center" src= "https://github-profile-trophy.vercel.app/?username=zukahai&theme=dracula&rank=S,AAA,AA,B,C,A&margin-w=10" />
@@ -11,7 +11,7 @@
 | :-----: | :-: |
 | Facebook | [**Phan Đức Hải**](https://www.facebook.com/chiatayde)  |
 | Youtube | [**HaiZuka**](https://www.youtube.com/HaiZuka) |
-| Working  | [**Giải Thuật CPP**](https://www.facebook.com/algorithmcpp) |
+| Working  | [**Giải Thuật CPP**](https://www.facebook.com) |
 | My blogs | [**HaiZuka**](https://codelearn.io/sharing/post/HaiZuka) |
 | University | [**Vietnam-Korea University of Information and Communication Technology**](http://www.vku.udn.vn/) |
 | Contact | **<duchai2712@gmail.com>** |
