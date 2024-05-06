@@ -40,6 +40,8 @@
 
 <hr>
 
+![](./github-metrics.svg)
+
 ### <p align="center"> I create projects for my blog posts, sometimes just for fun. You are free to use my projects. </br>I am really glad to see you here ! </p>
 
 ## <p align="center">💔💙💓💝 THANK YOU 💚💗💘💖</p>
